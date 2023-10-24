@@ -1,6 +1,6 @@
 ### Hi there 👋
-###-I'm a student at Da Nang, Viet Nam 🇻🇳
-###-I'm currently learning to become a software engineer⚙️
+###I'm a student at Da Nang, Viet Nam 🇻🇳
+###I'm currently learning to become a software engineer⚙️
 
 
 
