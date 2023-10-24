@@ -1,4 +1,8 @@
 ### Hi there 👋
+-I'm a student at Da Nang, Viet Nam 🇻🇳
+-I'm currently learning to become a software engineer⚙️
+
+
 
 <!--
 **Long-13579/Long-13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
